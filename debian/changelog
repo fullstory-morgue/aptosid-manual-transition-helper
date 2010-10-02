@@ -1,3 +1,9 @@
+aptosid-manual-transition-helper (1:2.6.36.12) UNRELEASED; urgency=low
+
+  * NOT RELEASED YET
+
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Sat, 02 Oct 2010 02:44:05 +0200
+
 aptosid-manual-transition-helper (1:2.6.36.11) unstable; urgency=low
 
   * -hr has been dropped upstream.
