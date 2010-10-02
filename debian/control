@@ -119,7 +119,7 @@ Description: transitional dummy package
 Package: sidux-manual-hr
 Architecture: all
 Depends: ${misc:Depends},
- aptosid-manual-hr
+ aptosid-manual-en
 Description: transitional dummy package
  This manual is divided into common sections, for example, a subject pertaining
  to partitioning is found in Partitioning your Hard Drive, and topics regarding
@@ -128,7 +128,7 @@ Description: transitional dummy package
  .
  Croatian language version.
  .
- transitional metapackage to pull in aptosid-manual-hr
+ This package is obsolete and should be removed.
 
 Package: sidux-manual-hu
 Architecture: all
