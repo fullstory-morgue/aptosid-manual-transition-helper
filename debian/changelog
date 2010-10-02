@@ -1,3 +1,9 @@
+aptosid-manual-transition-helper (1:2.6.36.11) unstable; urgency=low
+
+  * -hr has been dropped upstream.
+
+ -- Stefan Lippers-Hollmann <s.l-h@gmx.de>  Sat, 02 Oct 2010 02:43:38 +0200
+
 aptosid-manual-transition-helper (1:2.6.36.10) unstable; urgency=low
 
   * ensure to really replaces all manuals..
