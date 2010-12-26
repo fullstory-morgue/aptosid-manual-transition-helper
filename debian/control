@@ -175,7 +175,7 @@ Description: transitional dummy package
 Package: sidux-manual-nl
 Architecture: all
 Depends: ${misc:Depends},
- aptosid-manual-nl
+ aptosid-manual-en
 Description: transitional dummy package
  This manual is divided into common sections, for example, a subject pertaining
  to partitioning is found in Partitioning your Hard Drive, and topics regarding
@@ -184,7 +184,7 @@ Description: transitional dummy package
  .
  Dutch language version.
  .
- transitional metapackage to pull in aptosid-manual-nl
+ This package is obsolete and should be removed.
 
 Package: sidux-manual-pl
 Architecture: all
